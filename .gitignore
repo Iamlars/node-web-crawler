@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+
+.DS_Store
+.idea
+.idea/*
+.idea/.rakeTaskss
+npm-debug.log
+node_modules
